@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14&height=220&section=header&text=Hi%20There,%20I'm%20%5BYOUR%20NAME%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BYOUR%20TITLE%20-%20e.g.%20Senior%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%5D&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,10,14&height=220&section=header&text=Hi%20There,%20I'm%20%5BYOUR%20NAME%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+software+systems;Engineering+AI%2FML+products;Full+Stack+%7C+Cloud+%7C+Distributed+Systems;Open+to+SDE+%26+AI+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Learning+to+build+scalable+full+stack+systems;Exploring+DevOps+%26+Cloud+Infrastructure;React+%7C+Node.js+%7C+Docker+%7C+CI%2FCD;Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushgowda)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=8b5cf6&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/your-username?color=6d28d9&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/your-username?color=4c1d95&style=flat-square&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushgowda&color=8b5cf6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/ayushgowda?color=6d28d9&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/ayushgowda?color=4c1d95&style=flat-square&label=Stars)
 
 </div>
 
@@ -49,19 +49,19 @@ Here are some ideas to get you started:
 
 ```yaml
 name: "[Your Name]"
-role: "[Senior Software Engineer / AI Engineer / Full Stack Developer]"
-focus: ["Software Engineering", "AI/ML Systems", "Full Stack Development", "Product Engineering"]
+role: "Full Stack Developer | DevOps Enthusiast"
+focus: ["Full Stack Development", "DevOps", "Cloud Infrastructure", "CI/CD"]
 ```
 
-I'm a **[X]-year** software engineer specializing in building **scalable, production-grade systems** at the intersection of full-stack engineering and applied AI/ML. I care deeply about clean architecture, developer experience, and shipping products that hold up under real-world load.
+I'm currently **studying Full Stack Development and DevOps**, building hands-on projects to go along with it. I care about writing clean, maintainable code and learning how to ship and operate software the way real teams do — from the frontend all the way through deployment.
 
-- 🔭 Currently building **[current project/company]**
-- 🧠 Deep interest in **machine learning systems, LLM applications, and distributed backends**
-- 🛠️ Product-engineering mindset — I ship, measure, and iterate
-- 🌱 Constantly leveling up on **[current learning focus]**
+- 🔭 Currently studying **Full Stack Development & DevOps**
+- 🧠 Learning how CI/CD pipelines, containers, and cloud infra tie together with application code
+- 🛠️ Building projects end-to-end — frontend, backend, and deployment
+- 🌱 Currently leveling up on **[e.g. Docker, Kubernetes, AWS]**
 
 ### 🎯 Open To
-`Software Engineer` · `AI/ML Engineer` · `Full Stack Developer` · `Backend Engineer` · `Freelance & Consulting`
+`Internships` · `Full Stack Developer` · `DevOps Engineer` · `Junior Software Engineer`
 
 ---
 
@@ -85,18 +85,18 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 ---
 
-## 🤖 AI / ML Expertise
+## ⚙️ DevOps & Full Stack Focus
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised/unsupervised learning, model evaluation, scikit-learn |
-| **Deep Learning** | ⭐⭐⭐⭐☆ | CNNs, RNNs/Transformers, PyTorch, TensorFlow |
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | RAG pipelines, prompt engineering, fine-tuning, agentic systems |
-| **MLOps** | ⭐⭐⭐☆☆ | Model deployment, monitoring, CI/CD for ML, MLflow |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | ETL pipelines, Spark, data warehousing |
-| **NLP** | ⭐⭐⭐⭐☆ | Text classification, embeddings, vector search |
+| **Full Stack Development** | ⭐⭐⭐☆☆ | React, Node.js, REST APIs, relational & NoSQL databases |
+| **Containerization** | ⭐⭐⭐☆☆ | Docker, image builds, multi-container apps with Compose |
+| **CI/CD** | ⭐⭐☆☆☆ | GitHub Actions pipelines, automated build/test/deploy |
+| **Cloud Fundamentals** | ⭐⭐☆☆☆ | Core AWS/GCP services, deployment basics |
+| **Version Control & Collaboration** | ⭐⭐⭐⭐☆ | Git workflows, branching strategies, code review |
+| **Orchestration (learning)** | ⭐⭐☆☆☆ | Kubernetes fundamentals, pods, services, deployments |
 
 </div>
 
@@ -117,7 +117,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 | **Performance** | [e.g. p95 latency under 200ms] |
 | **Security** | [e.g. OAuth2, rate limiting, input sanitization] |
 | **Impact** | [e.g. reduced processing time by 40%] |
-| **Repository** | [github.com/your-username/project-one](https://github.com/your-username/project-one) |
+| **Repository** | [github.com/ayushgowda/project-one](https://github.com/ayushgowda/project-one) |
 
 [Short professional paragraph on architecture decisions, challenges solved, and outcomes.]
 
@@ -136,7 +136,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 | **Performance** | [e.g. sub-second RAG retrieval] |
 | **Security** | [e.g. JWT auth, encrypted storage] |
 | **Impact** | [e.g. improved retrieval accuracy by 25%] |
-| **Repository** | [github.com/your-username/project-two](https://github.com/your-username/project-two) |
+| **Repository** | [github.com/ayushgowda/project-two](https://github.com/ayushgowda/project-two) |
 
 [Short professional paragraph on architecture decisions, challenges solved, and outcomes.]
 
@@ -155,7 +155,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 | **Performance** | [e.g. 99.9% uptime] |
 | **Security** | [e.g. RBAC, audit logging] |
 | **Impact** | [e.g. onboarded by X teams internally] |
-| **Repository** | [github.com/your-username/project-three](https://github.com/your-username/project-three) |
+| **Repository** | [github.com/ayushgowda/project-three](https://github.com/ayushgowda/project-three) |
 
 [Short professional paragraph on architecture decisions, challenges solved, and outcomes.]
 
@@ -228,10 +228,10 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/your-username)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayushgowda)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/ayushgowda)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ayushgowda)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ayushgowda)
 
 </div>
 
@@ -241,10 +241,10 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushgowda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgowda&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgowda&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
@@ -254,7 +254,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ayushgowda&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7)
 
 </div>
 
@@ -264,7 +264,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushgowda&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c9d1d9)
 
 </div>
 
@@ -274,7 +274,7 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/ayushgowda/ayushgowda/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -284,16 +284,17 @@ I'm a **[X]-year** software engineer specializing in building **scalable, produc
 
 ```yaml
 learning:
-  - "[e.g. Advanced distributed systems design]"
-  - "[e.g. LLM fine-tuning & evaluation]"
+  - "Full Stack Development"
+  - "DevOps & CI/CD pipelines"
 building:
-  - "[e.g. An AI-powered SaaS product]"
+  - "[Your current project]"
 exploring:
-  - "[e.g. Rust for high-performance backends]"
+  - "Docker & Kubernetes"
+  - "Cloud infrastructure (AWS/GCP)"
 open_to:
-  - "Full-time Software Engineer roles"
-  - "AI/ML Engineer roles"
-  - "Freelance & consulting opportunities"
+  - "Internships"
+  - "Full Stack Developer roles"
+  - "DevOps Engineer roles"
 ```
 
 ---
@@ -304,7 +305,7 @@ open_to:
 
 [![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushgowda)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 </div>
